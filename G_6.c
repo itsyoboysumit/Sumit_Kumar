@@ -1,0 +1,3 @@
+/*Write a program in C to take input in two matrices.Multiply those two matrices and store the result
+ in a third matrix. Print all the matrices in the matrix format. You will have to check wheather
+  multiplication is possible or not.*/

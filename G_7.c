@@ -1,0 +1,1 @@
+/*WAP to take an integer number and convert that number to its equivalent binary number and octal number.*/
